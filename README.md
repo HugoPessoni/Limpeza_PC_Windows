@@ -5,11 +5,11 @@ Sabe quando seu PC começa a dar uma travadas? Bom, técnicos quando não simple
 ## Índice
 
 1. [Limpeza da Pasta Prefetch](#limpeza-da-pasta-prefetch)
-2. [Limpeza da Lista de Programas Recentes](#limpeza-da-lista-de-programas-recentes)
+2. [Limpeza da Lista de Programas Recentes, pasta Recent](#limpeza-da-lista-de-programas-recentes-pasta-recent)
 3. [Limpeza da Pasta Temp do Usuário](#limpeza-da-pasta-temp-do-usuário)
-4. [Limpeza da Pasta Temp do Sistema](#limpeza-da-pasta-temp-do-sistema)
+4. [Limpeza da Pasta %Temp% do Sistema](#limpeza-da-pasta-temp-do-sistema)
 5. [Limpeza do Disco com o Cleanmgr](#limpeza-do-disco-com-o-cleanmgr)
-6. [Avisos e Considerações](#avisos-e-considerações)
+6. [⚠️ Avisos e Considerações](#avisos-e-considerações)
 
 ---
 
@@ -63,7 +63,7 @@ Libera espaço de forma segura e remove arquivos que não são mais necessários
 
 ---
 
-### ⚠️Avisos e Considerações
+### ⚠️ Avisos e Considerações 
 
 - **Permissões:** Algumas operações podem precisar de privilégios de administrador. Execute a automação com as permissões adequadas.
   
